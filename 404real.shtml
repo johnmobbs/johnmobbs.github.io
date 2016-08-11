@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="assets/img/favicon.ico">
+
+    <title>John P. Mobbs</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/ionicons.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div id="h">
+      <div class="logo">
+        <h2>JOHN P. MOBBS | ATTORNEY AT LAW</h2>
+      </div><!--/logo-->
+      <div class="container centered">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h1><b>John P. Mobbs</b> is an appellate attorney practicing in El Paso, Texas</h1>
+            </div>
+          </div>
+        </div><!--/row-->
+    </div><!--H-->
+      
+    <div class="container ptb">
+      <div class="row">
+        <!--<h2 class="centered mb">Practicing civil appeals</h2>-->
+        <div class="col-md-6">
+            <p><b>Practice</b></p>
+            <p> • <a href="https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=149083">Admitted to practice in the state of Texas</a>, 1992<br />
+                • <a href="http://members.calbar.ca.gov/fal/Member/Detail/166354">Admitted to practice in the state of California</a>, 1993<br />
+                • Admitted to practice in the state of New Mexico, 2016<br />
+                • <a href="http://www.tbls.org/profile/attorney.aspx?bid=6867">Board Certified in Civil Appellate Law</a>, Texas Board of Legal Specialization, 1998<br /></p>
+            <p><b>Honors</b></p>
+               <p> • Named one of the Top 50 Attorneys in Central and West Texas, Texas Monthly, 2014<br />
+                   • <a href="http://profiles.superlawyers.com/texas/el-paso/lawyer/john-p-mobbs/d532f95d-3a2d-47a1-adf7-46acc7123e15.html">Texas "Super Lawyer"</a> in the appellate practice area, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015<br /></p>
+            <p><b>Education</b></p>
+            <p> • Georgetown University, BSBA, 1989<br />
+                • <a href="https://www.smu.edu/EnrollmentServices/Registrar/AcademicCeremonies/AboutUs/History/~/media/Site/EnrollmentServices/Registrar/AcademicCeremonies/PDF/MayCommencement/1992%20Commencement%20Convocation.pdf">Southern Methodist University Dedman School of Law</a>, JD, 1992<br /></p>
+            </p>
+        </div><!--/col-md-6-->
+        <div class="col-md-6">
+          <p><b>Contact Information</b></p>
+            <p>
+                Tel. 915-541-8810<br />
+                Fax 915-541-8830<br />
+                <a href="mailto:johnmobbs@gmail.com">johnmobbs@gmail.com</a><br />
+                7170 Westwind Dr., Suite 201<br />
+                El Paso, TX  79912<br />
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3388.65627030078!2d-106.55035168516555!3d31.86156753740292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ddf890f4bb5499%3A0xa23ebc33493baccb!2s7170+Westwind+Dr%2C+El+Paso%2C+TX+79912!5e0!3m2!1sen!2sus!4v1451937937858" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </p>
+        </div><!--/col-md-6-->
+      </div><!--/row-->
+    </div><!-- /.container -->
